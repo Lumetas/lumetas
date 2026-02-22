@@ -14,6 +14,7 @@ PHP developer with a passion for backend logic and databases. I enjoy turning co
 - **[meract](https://github.com/meract/meract)** — Lightweight micro-framework for PHP
 - **[ldoc](https://github.com/meract/ldoc)** — Markdown documentation generator from PHP docblocks
 - **[trilium-notes](https://github.com/Lumetas/TriliumNotes)** - PHP client for Trilium Notes ETAPI.
+- **[Goliaff](https://github.com/Lumetas/Goliaff)** - Declarative Linux System Configuration Manager.
 
 <br>
 
