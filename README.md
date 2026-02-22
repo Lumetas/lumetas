@@ -20,8 +20,8 @@ PHP developer with a passion for backend logic and databases. I enjoy turning co
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/lumetas" target="blank"><img align="left" src="./img/linked-in-alt.svg" alt="lumetas" height="30" width="40" /></a>
-<a href="https://t.me/lumetas" target="blank"><img align="left" src="./img/telegram.png" alt="lumetas" height="30" width="40" /></a>
-<a href="https://tyumen.hh.ru/resume/0cccb3bdff0d2b6e740039ed1f45646d776638" target="blank"><img align="left" src="./img/HeadHunter.png" alt="hh.ru" height="30" width="40" /></a>
+<a href="https://t.me/lumetas" target="blank"><img align="left" src="./img/telegram.png" alt="lumetas" height="30" width="30" /></a>
+<a href="https://tyumen.hh.ru/resume/0cccb3bdff0d2b6e740039ed1f45646d776638" target="blank"><img align="left" src="./img/HeadHunter.png" alt="hh.ru" height="30" width="30" /></a>
 <a href="mailto:lumetas506@gmail.com" target="blank"><img align="left" src="./img/email.png" alt="lumetas" height="30" width="40" /></a>
 </p>
 
