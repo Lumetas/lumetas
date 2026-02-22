@@ -38,7 +38,7 @@ PHP developer with a passion for backend logic and databases. I enjoy turning co
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./img/devicons/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./img/devicons/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="./img/devicons/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./img/devicons/python.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./img/devicons/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./img/devicons/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="./img/devicons/Laravel.svg" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./img/devicons/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
