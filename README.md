@@ -6,7 +6,7 @@
 PHP developer with a passion for backend logic and databases. I enjoy turning complex requirements into simple, efficient code. Outside of coding, I'm probably deep in configuring **Neovim** to perfection (it's a never-ending journey!).
 
 - Fun fact: I chose PHP for its simplicity and power, and I'm still here, building robust applications and enjoying the ecosystem.
-- How to reach me: [telegram](https://t.me/lumetas) or [email](mailto:lumetas506@gmail.com)
+<!-- - How to reach me: [telegram](https://t.me/lumetas) or [email](mailto:lumetas506@gmail.com) -->
 
 ### Pet Projects
 
