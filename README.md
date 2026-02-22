@@ -13,6 +13,7 @@ PHP developer with a passion for backend logic and databases. I enjoy turning co
 - **[luper](https://github.com/lumetas/luper)** — Library for parallel operations in PHP (processes, threads, fibers)
 - **[meract](https://github.com/meract/meract)** — Lightweight micro-framework for PHP
 - **[ldoc](https://github.com/meract/ldoc)** — Markdown documentation generator from PHP docblocks
+- **[trilium-notes](https://github.com/Lumetas/TriliumNotes)** - PHP client for Trilium Notes ETAPI.
 
 <br>
 
