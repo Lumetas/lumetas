@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/Lumetas/linkedInBanner/refs/heads/master/linkedin_banner.png)
 # hi, i'm lumetas
 ## PHP-backend developer
 
